@@ -1,0 +1,236 @@
+[[primecount]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "042025d8d1bffb6150658b0b7c2d17b0fea6c369"
+libc = "glibc"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "206a5bc4932045b27b3962050ff32d8be6f0c6c21c96211af75b9e0162a5ad55"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[primecount]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1525fe3c5ae042f01ae41c382405ff9eea0aba02"
+libc = "glibc"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "2ce1ecde26cc0a02b1c6eb137ee2a69ef851ce629bb88fd78eab47458bd239a4"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[primecount]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f6a6515a38f39529648a26167eec0d8a4a38f238"
+libc = "musl"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "bea986ec61e10e1a8380552f291971d0dbf44b46810a539760d0e52da418cd8a"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.aarch64-linux-musl-cxx03.tar.gz"
+[[primecount]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fcb29f58e5e19d3b0e836b7295f6da7d0af97755"
+libc = "musl"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "abfb8a97ef49a1a8aa474efc1fe850c325c1d3cbf8e0e5bea521df9d91edf746"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.aarch64-linux-musl-cxx11.tar.gz"
+[[primecount]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d79c9c8767c366e1a5c6916d0766453dfe5a004d"
+libc = "glibc"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "6df72c28594ec87e9e10b2cb6baf37b21adcd2af2c1887ff8a6cf3641f669286"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[primecount]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c68a30ce1b5a21b83b8f7bbb375ac9a75820f76"
+libc = "glibc"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "b08576a627681677c1ef88b98637c78569e022bbbbfb647672dc65d7edf40b48"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[primecount]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "24015986140e6e38a9d300fe09bf74d9864cc65e"
+libc = "musl"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "6beba045b4fb4b883ccbc8e7b0b3245acf8297e743649ea775ea0e2518e048ca"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[primecount]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11bebe372aa45c46d87d5c3b47ce5c9f39c93276"
+libc = "musl"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "4209782cf548a497182e045be75fba3ab9c31eaedcbd7dafc048c68cb29241e6"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[primecount]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0b115f7a5d8600c90c97f0c36535227b6839c46b"
+libc = "glibc"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "1b9c570855986e539443fef1d7bea0ca44bac92051c5072d343c64243ee09e93"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.i686-linux-gnu-cxx03.tar.gz"
+[[primecount]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e92cc83d8cb04671fb1f30033db22f9417d8eda4"
+libc = "glibc"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "714a44ef8e85395d01cf37b40805725157e15339c98cc2494b3b0675feb68bdf"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.i686-linux-gnu-cxx11.tar.gz"
+[[primecount]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "08f175e9db4609fb77957147f7d8181ff4bc30f9"
+libc = "musl"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "2fc374428f4cb04058e9b6b0b34ed0386d0ab6c6086c195d59a73ac314fbb0ff"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.i686-linux-musl-cxx03.tar.gz"
+[[primecount]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d0fc70d956c18ae95dc6f62fce6f78af14283722"
+libc = "musl"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "2ad079ae21218f0c0bf8096a3d4db7add3ba3485a616b60d2cb9e5dfe27c17ea"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.i686-linux-musl-cxx11.tar.gz"
+[[primecount]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0d51c4fd8c19da0bb3767ffb6075a31677992192"
+os = "windows"
+
+    [[primecount.download]]
+    sha256 = "ae84c7340502f38d3981df9429ab235246f2c6d1bf6db97f350bfdc9384699c5"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.i686-w64-mingw32-cxx03.tar.gz"
+[[primecount]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35671c8dc2911aafd71aabc9a495289ae1600b8a"
+os = "windows"
+
+    [[primecount.download]]
+    sha256 = "df62b2bf8abbbb1cbb56d631203944afa3a511ba78a516b66d713f840c152d3f"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.i686-w64-mingw32-cxx11.tar.gz"
+[[primecount]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "07061a55935a0b9f0ee079e48f17f20030f78bc2"
+libc = "glibc"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "3e3bea0fadc3194bcd2303755abca3d310633cada51571ad7207b48bf20e7868"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[primecount]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "310dc1edff9c3ac02bfbf96894278a43825c8fb5"
+libc = "glibc"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "f17ad11961d553513a9b39994bfd8f92274fcd80dc2fd6cbfb9afd1928065e24"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[primecount]]
+arch = "x86_64"
+git-tree-sha1 = "ad680230c824752375a4869c54eebf332c824889"
+os = "macos"
+
+    [[primecount.download]]
+    sha256 = "a446c8b2dbff7f04e70daca1db894d73b86c988cba463f31568ea3a290de68d2"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.x86_64-apple-darwin.tar.gz"
+[[primecount]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "db846e1fa910188d3fd740dd5b23b51a1051689f"
+libc = "glibc"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "f0ae2e68145d5c4633430852a645e755961838c57a81eb291e82ab242383c71b"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[primecount]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8641c7d7452e6befce7f0a120c936bdaa72cfe8d"
+libc = "glibc"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "ecc6567506eee2226d0f265f66ba3447ef9085db7f3a74dc2b973bd8165fb832"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[primecount]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d5e52c6b7ae52491322f3ca17619f00c76e495e"
+libc = "musl"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "ba95ba53504aaa473569d6e7db799f44eaf361a1fab18efd97ece02a8ffabeb0"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.x86_64-linux-musl-cxx03.tar.gz"
+[[primecount]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "15bec2060792144a7aef2b1ca4ede3993c75e1e1"
+libc = "musl"
+os = "linux"
+
+    [[primecount.download]]
+    sha256 = "5872577e71a8800a6a09135cea6899a701e2f07557ae9709f9a0313b972ab7c3"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.x86_64-linux-musl-cxx11.tar.gz"
+[[primecount]]
+arch = "x86_64"
+git-tree-sha1 = "dcafd96f7f5030d085362ff13b4c1dc148e54460"
+os = "freebsd"
+
+    [[primecount.download]]
+    sha256 = "690b401c3d0232fedb5db9cf51afd0d4002dcbfec63a0dc7a16512a8a62ddd46"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.x86_64-unknown-freebsd.tar.gz"
+[[primecount]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d596d778936ce8cce4996e9fa457787f09a76d13"
+os = "windows"
+
+    [[primecount.download]]
+    sha256 = "f0ca5f2abd807ec8565cc5c4a611bea2f920da3409949ed4c11d2f0389266eac"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[primecount]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fe327c247be8406a3611492e20ce154350a7dfa6"
+os = "windows"
+
+    [[primecount.download]]
+    sha256 = "941e73993f807b857f35cbd957a3223fd4ccef72a824e82e197c7b6b313b2c21"
+    url = "https://github.com/JuliaBinaryWrappers/primecount_jll.jl/releases/download/primecount-v6.4.0+0/primecount.v6.4.0.x86_64-w64-mingw32-cxx11.tar.gz"
